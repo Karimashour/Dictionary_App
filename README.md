@@ -4,7 +4,7 @@ https://karimashour.github.io/Dictionary_App/
 1: HTML5 <br>
 2: CSS3 <br>
 3: Pure JavaScript <br>
-4: API From the Free Dictionary API website, https://api.dictionaryapi.dev/api/v2/entries/en/<word>
+4: Fetch Data API From the Free Dictionary API website, https://api.dictionaryapi.dev/api/v2/entries/en/<word>
 # Features
 1. The user can write the word in the input, then click search button 
 2. the app show to user this message "Sorry You Enter Not Valid Meaning Words,So I Can't Found It " if he enter wrong word
